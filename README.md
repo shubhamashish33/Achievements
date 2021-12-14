@@ -4,7 +4,7 @@ A simple website to show the world your recent project or achievement. There is 
 ## Screenshot
 ### Light Mode 🤍
 
-## Dark Mode 🖤
+### Dark Mode 🖤
 
 ## Tech
 - HTML
