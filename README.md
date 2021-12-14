@@ -1,11 +1,14 @@
 # Achievements
 A simple website to show the world your recent project or achievement. There is minimimal way to show case what you acieved in recent days.
+
 [Vist Here🚀](https://shubhamashish33.github.io/Achievements/)
 
 ## Screenshot
 ### Light Mode 🤍
+![image](https://user-images.githubusercontent.com/78084828/145984970-d6045ffb-e1a7-4a5e-8ae6-2237d1993206.png)
 
 ### Dark Mode 🖤
+![image](https://user-images.githubusercontent.com/78084828/145984828-a0b396f0-d13d-47fe-b48b-352c73bc9f07.png)
 
 ## Tech
 - HTML
