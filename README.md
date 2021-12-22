@@ -1,5 +1,5 @@
 # Show your Achievement 🎉
-A minimal website to show your recent project or achievement. This is the simplest way to show what you achieved in recent days.
+A minimal website to show your recent project or achievement. It is the simplest way to show what you achieved in recent days.
 
 [Vist Here🚀](https://shubhamashish33.github.io/Achievements/)
 
@@ -21,4 +21,5 @@ A minimal website to show your recent project or achievement. This is the simple
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imaashish_)
 
-**If you like this content don't forget to mark it as star. Do Follow me on Twiiter to know behind the process.** 
+**If you like this content don't forget to mark it as star. \
+Do Follow me on Twiiter to know behind the process.** 
