@@ -1,5 +1,4 @@
 * {
-
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
 }
@@ -11,7 +10,7 @@
 }
 .heading a {
   text-decoration: none;
-  color: rgba(25, 133, 255, 0.986);
+  color: white;
 }
 h1 {
   font-weight: 900;
@@ -62,11 +61,11 @@ li a {
     width: 90%;
     margin: auto;
   }
-  .heading h1{
+  .heading h1 {
     font-size: 35px;
     /* text-align: left; */
   }
-  .heading{
+  .heading {
     margin-top: 20px;
   }
   .months {
@@ -90,6 +89,12 @@ li a {
     width: 80%;
     margin: auto;
   }
+  .heading a {
+    line-height: 40px;
+    font-size: 24px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -101,7 +106,7 @@ li a {
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #1F1D36;
+    background-color: #1f1d36;
     color: white;
   }
 }
