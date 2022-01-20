@@ -1,11 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap');
 * {
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Outfit', sans-serif;
 }
 
 .heading {
   text-align: center;
-  font-family: "Open Sans", sans-serif;
   margin-top: 60px;
 }
 .heading a {
@@ -14,16 +14,15 @@
   margin-right: 10px;
   margin-left: 10px;
 }
+
 h1 {
-  font-weight: 900;
+  font-weight: 800;
 }
 h4 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 18px;
 }
 .content {
-  font-family: "Quicksand", sans-serif;
   margin-top: 40px;
   text-align: center;
 }
@@ -109,5 +108,8 @@ li a {
   body {
     background-color: #1f1d36;
     color: white;
+  }
+  .heading a {
+    color: rgb(54, 118, 255);
   }
 }
