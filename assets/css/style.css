@@ -56,6 +56,10 @@ li a {
   color: rgb(65, 124, 250);
 }
 
+.greeting{
+  font-family: monospace;
+}
+
 @media screen and (max-width: 600px) {
   body {
     width: 90%;
