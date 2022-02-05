@@ -1,5 +1,5 @@
 # Show your Achievement 🎉
-A minimal website to show your recent project or achievement. It is the simplest way to show what you achieved in recent days.
+A minimal website to show your recent project or achievement. It is the simplest way to show what you achieved in recent months.
 
 [Vist Here🚀](https://shubhamashish33.github.io/Achievements/)
 
